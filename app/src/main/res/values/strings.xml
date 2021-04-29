@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">practical2</string>
+    <string name="follow_btn">Follow</string>
+    <string name="unfollow_btn">Unfollow</string>
+    <string name="message_btn">Message</string>
+</resources>
